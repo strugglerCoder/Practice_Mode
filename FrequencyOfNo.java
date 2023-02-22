@@ -15,7 +15,6 @@ public class FrequencyOfNo {
             }
             n = n/10;
         }
-        System.out.println(cnt);
-  
-}
+        System.out.println(cnt);  
+    }
 }
