@@ -15,8 +15,6 @@ public class DuplicateString {
                 sb.append(c);    
             }
         }
-         
         System.out.println(sb);
-
     }
 }
